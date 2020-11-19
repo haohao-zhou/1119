@@ -1,3 +1,3 @@
 # 1119
 for learning.
-another another learning .
+another another learning ...
