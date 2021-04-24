@@ -53,5 +53,6 @@ void NONO()
 int main()
 {
 	cout << "hello,c";
+	cout<<endl;
 	return 0;
 }
