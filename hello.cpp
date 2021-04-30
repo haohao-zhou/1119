@@ -51,12 +51,6 @@ void NONO()
 	fclose(wf);
 }*/
 
-
-
-
-
-
-
 int main()
 {
 	cout << "hello,c";
