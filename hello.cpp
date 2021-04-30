@@ -50,6 +50,7 @@ void NONO()
 	fclose(rf);
 	fclose(wf);
 }*/
+
 int main()
 {
 	cout << "hello,c";
