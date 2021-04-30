@@ -51,8 +51,6 @@ void NONO()
 	fclose(wf);
 }*/
 
-
-
 int main()
 {
 
